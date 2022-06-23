@@ -1,0 +1,15 @@
+.card{
+    background-image: url('bg.jpg');
+    height: 700px;
+    width: 500px;
+    background-size: cover;
+    font-family:<link href="https: //fonts.googleapis.com/css2? family= Fascinate & family= Oswald:wght@700 & display=swap" rel="stylesheet"> ;
+}
+.cn{
+    text-align: center;
+   color: darkgoldenrod;
+}
+.ct{
+    text-align: center; 
+    color: aqua;
+}
